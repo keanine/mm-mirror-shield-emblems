@@ -1,0 +1,95 @@
+{
+    "configuration": {
+        "autoPath": "rt64",
+        "configurationVersion": 2,
+        "hashVersion": 5
+    },
+    "extraFiles": [],
+    "operationFilters": [],
+    "textures": [
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "174ff7fb4773e79d"
+            },
+            "path": "assets/hd_assets/gerudo/shield_inv"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "1bef65d7de72dab1"
+            },
+            "path": "assets/hd_assets/blank/shield_inv"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "34dcc029f3d9958d"
+            },
+            "path": "assets/hd_assets/crescent/shield_inv"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "7f2c6dc46672f549"
+            },
+            "path": "assets/hd_assets/ikana/shield_inv"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "a74c812d6eb7ccef"
+            },
+            "path": "assets/hd_assets/ikana/shield_symbol"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "e69021b57101a209"
+            },
+            "path": "assets/hd_assets/blank/shield_symbol"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "05e1d946c93ddf2f"
+            },
+            "path": "assets/hd_assets/crescent/shield_symbol"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "3977c04b7afc7d33"
+            },
+            "path": "assets/hd_assets/gerudo/shield_symbol"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "e9b2bc9ec1d1673e"
+            },
+            "path": "assets/hd_assets/blank/shield_ray"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "a07aafa771294bf8"
+            },
+            "path": "assets/hd_assets/ikana/shield_ray"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "c6ba52c69ec8ec9e"
+            },
+            "path": "assets/hd_assets/crescent/shield_ray"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "6acf4ac8b164773b"
+            },
+            "path": "assets/hd_assets/gerudo/shield_ray"
+        }
+    ]
+}

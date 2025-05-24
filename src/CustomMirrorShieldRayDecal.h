@@ -1,0 +1,6 @@
+extern u64 CustomMirrorShieldRayDecal_shield_ray_i8[];
+extern Vtx CustomMirrorShieldRayDecal_CustomMirrorShieldRayDecal_mesh_layer_Opaque_vtx_cull[8];
+extern Vtx CustomMirrorShieldRayDecal_CustomMirrorShieldRayDecal_mesh_layer_Opaque_vtx_0[11];
+extern Gfx CustomMirrorShieldRayDecal_CustomMirrorShieldRayDecal_mesh_layer_Opaque_tri_0[];
+extern Gfx mat_CustomMirrorShieldRayDecal_f3dlite_material_002[];
+extern Gfx CustomMirrorShieldRayDecal[];
