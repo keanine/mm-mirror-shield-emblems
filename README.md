@@ -3,6 +3,8 @@
 ![mse-shields-hd](https://github.com/user-attachments/assets/e5b6d52b-d643-4784-aace-f98e4fca5432)
 ![mse-icons](https://github.com/user-attachments/assets/2a29f52c-677c-4c23-bc70-876608f8c70a)
 ![mse-icons-hd](https://github.com/user-attachments/assets/22c84061-9658-4bfe-bc19-50eb531460ba)
+![mse-shields-artwork](https://github.com/user-attachments/assets/53c19402-e985-46af-8794-3e0fba7d6f7a)
+
 
 
 ### Writing mods
