@@ -8,7 +8,7 @@
 id = "mm_mirror_shield_emblems"
 
 # Version of this mod.
-version = "1.0.0"
+version = "1.1.0"
 
 # The name that will show up for this mod in the mod menu. This should be human readable.
 display_name = "Mirror Shield Emblems"
@@ -73,5 +73,13 @@ id = "mirror_shield_design"
 name = "Design"
 description = ""
 type = "Enum"
-options = [ "Basic", "Ikana", "Crescent", "Gerudo" ]
+options = [ "Face", "Basic", "Ikana", "Crescent", "Gerudo" ]
 default = "Ikana"
+
+[[manifest.config_options]]
+id = "mirror_shield_geo"
+name = "Model"
+description = ""
+type = "Enum"
+options = [ "Vanilla", "Artwork" ]
+default = "Vanilla"

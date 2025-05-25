@@ -90,6 +90,20 @@
                 "rt64": "6acf4ac8b164773b"
             },
             "path": "assets/hd_assets/gerudo/shield_ray"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "203afc171692866d"
+            },
+            "path": "assets/hd_assets/face/ZELDA MAJORA'S MASK#4ED03A44#4#1_all"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "00d57f5fa8f69388"
+            },
+            "path": "assets/hd_assets/face/ZELDA MAJORA'S MASK#BCF85A30#4#1_all"
         }
     ]
 }
